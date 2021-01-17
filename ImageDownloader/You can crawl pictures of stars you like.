@@ -1,7 +1,7 @@
 # from icrawler.builtin import BaiduImageCrawler
 from icrawler.builtin import BingImageCrawler
 #需要爬取的关键字i
-list_word = ['IU']
+list_word = ['The name of the star']
 for word in list_word:
     #bing爬虫
     #保存路径
